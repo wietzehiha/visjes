@@ -1,0 +1,12 @@
+uuid: 98679cf8-8b28-4920-98e8-d80c0fe50c98
+name: 'visjes'
+mail: 'info+visjes@vdmi.nl'
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en

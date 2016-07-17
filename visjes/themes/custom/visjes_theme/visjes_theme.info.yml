@@ -1,0 +1,15 @@
+name: 'visjes Theme'
+type: theme
+description: 'Theme for visjes'
+package: Other
+core: 8.x
+libraries:
+  - visjes_theme/global-styling
+  - visjes_theme/custom
+regions:
+  header: Header
+  featured: Featured
+  content: Content
+  sidebar_first: First sidebar
+  sidebar_second: Second sidebar
+  footer: Footer
